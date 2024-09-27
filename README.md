@@ -10,5 +10,5 @@
 <h3 align="left">Tech and Tools:</h3>
 
 <div align="center">
- <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,astro,nodejs,nestjs,mongodb,tailwind,ruby,rust,postman,git,"/>
+ <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,gatsby,nextjs,astro,nodejs,nestjs,mongodb,postman,git"/>
 </div>
