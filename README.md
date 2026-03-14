@@ -1,14 +1,13 @@
-<div align="center">
- <img src="https://github.com/ivanexDev/ivanexDev/assets/86924510/04e258fe-1144-465f-8da1-30f20d441178"/>
-</div>
+# Hey!, I'm Ivan!
+### Software Developer
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ipereirameza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ipereirameza" height="30" width="40" /></a>
-</p>
+Software developer with 2 years of experience building web applications, currently focused on native iOS development with Swift.
+Previously worked with React and Node.js across the full web stack. Today my work is centered on crafting native mobile experiences for Apple platforms.
 
-<h3 align="left">Tech and Tools:</h3>
+### Technologies
 
-<div align="center">
- <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,gatsby,nextjs,astro,nodejs,nestjs,mongodb,postman,git"/>
-</div>
+[![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
+[![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
